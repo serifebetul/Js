@@ -14,4 +14,4 @@ Bu proje, Javascript kullanarak dinamik bir saat uygulaması oluşturmaktadır. 
 1. **Kullanıcı Adı Girişi**: Sayfayı yüklediğinizde kullanıcı adı girmesi istenir. Bu adı sayfada gösterir.
 2. **Saat ve Gün Bilgisi**: Saat ve gün bilgisi otomatik olarak güncellenir ve sayfanın üst kısmında gösterilir.
 
-![Resim -1]()
+![Resim -1](js.png)
