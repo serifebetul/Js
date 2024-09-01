@@ -1,5 +1,4 @@
 
-// name or username section
 let username = String(prompt("Please enter the username."));
 let isim = document.querySelector("#myName");
 
@@ -10,14 +9,10 @@ if(username.length >0){
     console.log("Please enter the username ,Try Again!!!");
 }
 
-
-
-//hours and days section
-
 function timer(){
     const now = new Date();
-    const hour = now.getHours(); //saat
-    const time = now.getMinutes(); //dakika
+    const hour = now.getHours(); 
+    const time = now.getMinutes(); 
     const day = now.getDay();
     const second = now.getSeconds();
     const daysOfWeek = ["Pazar", "Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi"];
